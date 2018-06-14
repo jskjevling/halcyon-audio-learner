@@ -1,7 +1,7 @@
 # Halcyon Audio Learner
 HAL ear training and theory app
 
-##Getting Started
+## Getting Started
 
 Make sure you have the latest LTS release of Node installed as well as watchman:
 ```
